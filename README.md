@@ -1,6 +1,6 @@
 # Hi, I'm Lu! 👋
 - 🎒 I'm currently a 4th year Computer Science student.
-- ⚡ I'm currently interested in Discord Bots, iOS development and Artificial Intelligence.
+- ⚡ I'm currently interested in Discord bots, iOS development and web development.
 
 <!--
 ### 🌱 I’m currently learning: 
