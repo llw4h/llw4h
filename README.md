@@ -1,6 +1,6 @@
 # Hi, I'm Lu! 👋
-- 🎒 I'm a senior software engineer student.
-- ⚡ I'm currently interested in Discord Bots and iOS development.
+- 🎒 I'm currently a 4th year Computer Science student.
+- ⚡ I'm currently interested in Discord Bots, iOS development and Artificial Intelligence.
 
 <!--
 ### 🌱 I’m currently learning: 
