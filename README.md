@@ -1,4 +1,4 @@
-# Hi, I'm Lulwah! 👋
+# Hi, I'm Lulwah! 
 - 🌱 I'm a recent Computer Science graduate.
 - ⚡ I'm currently interested in automation, app development, web development and everything in between.
 
