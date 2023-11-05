@@ -1,5 +1,4 @@
 # Hi, I'm Lulu! 
-- 🌱 I'm a recent Computer Science graduate.
 - ⚡ I'm currently interested in automation, app development, web development and everything in between.
 
 Learn more about me [here](https://llw4h.github.io/)!
