@@ -1,5 +1,5 @@
 # Hi, I'm Lulu! 
-- ⚡ I'm currently interested in automation, app development, web development and everything in between.
+- ⚡ I'm currently interested in automation, web development and everything in between.
 
 Learn more about me [here](https://llw4h.github.io/)!
 <!--
